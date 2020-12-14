@@ -8,7 +8,7 @@ A. The heatmaps for influence(retweets) on a heatmap where each bin is weekly fo
 
 --- We then sort the images according to their timestamp in ascending order for every cluster
 
---- We then get the total number of retweets for a one week window(window size can be customized) for every clsuter.
+--- We then get the total number of retweets for a one week window(window size can be customized) for every cluster.
 
 --- Using the binned rewteets value for very cluster we create a heatmap for every cluster. 
 
