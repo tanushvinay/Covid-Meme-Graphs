@@ -2,22 +2,22 @@
 
 We use this code to plot two things:
 
-1. The heatmaps for influence(retweets) on a heatmap where each bin is weekly for every cluster:
+A. The heatmaps for influence(retweets) on a heatmap where each bin is weekly for every cluster:
 
- We first store the total number of retweets for every image in every cluster
+--- We first store the total number of retweets for every image in every cluster
 
- We then sort the images according to their timestamp in ascending order for every cluster
+--- We then sort the images according to their timestamp in ascending order for every cluster
 
- We then get the total number of retweets for a one week window(window size can be customized) for every clsuter.
+--- We then get the total number of retweets for a one week window(window size can be customized) for every clsuter.
 
- Using the binned rewteets value for very cluster we create a heatmap for every cluster. 
+--- Using the binned rewteets value for very cluster we create a heatmap for every cluster. 
 
 
-2. The influence(retwets) for every image against the timestamp for every image in a cluster
+B. The influence(retwets) for every image against the timestamp for every image in a cluster
 
- We first store the total number of retweets for every image in every cluster
+--- We first store the total number of retweets for every image in every cluster
 
- We then sort the images according to their timestamp in ascending order for every cluster
+--- We then sort the images according to their timestamp in ascending order for every cluster
 
- We then plot for every cluster the timestamp vs influence where every datapoint is an image in the cluster.  
+--- We then plot for every cluster the timestamp vs influence where every datapoint is an image in the cluster.  
 
