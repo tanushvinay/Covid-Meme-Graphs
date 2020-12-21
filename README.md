@@ -2,7 +2,8 @@
 
 This Repository contains two parts, the Memes folder and the Graphs Folder:
 
--- Memes folder contains the code and dataset for the training of a classifer to classify an image(in our case a graph) as a meme or not. 
+-- Memes folder contains the code and dataset for the training of a classifer to classify an image(in our case a graph) as a meme or not.
+
 -- Graphs folder contains the code and dataset to train a classifier to classify images from covid tweets as a graph or not. 
 
 ### Requirements ###
